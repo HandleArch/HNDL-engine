@@ -1,0 +1,26 @@
+HNDL Engine – Community & Commercial License
+Copyright (c) 2025-present handle
+
+1. Community License (free forever)
+You are free to use, modify and distribute HNDL Engine (including the full source code when provided)
+if ALL of these conditions are met:
+- You are an individual developer, a student, or an indie entity
+- Your project or company has less than 1 000 000 € annual revenue AND less than 10 employees
+- You keep the copyright notice and this license in all copies
+
+2. Commercial License (paid – required otherwise)
+If your company has 1 000 000 € or more annual revenue OR 10 or more employees,
+you need a paid commercial license.
+→ Contact handle@proton.me for pricing (one-time or revenue-share)
+
+3. General rules (both licenses)
+- No warranty of any kind
+- You may not sell or sublicense the engine itself (only your own games/apps)
+- Pre-compiled binaries in this demo repo may not be redistributed without source
+
+Full commercial terms and custom contracts available on request.
+
+Current demo contains proprietary pre-compiled core.
+Full source code is shared only with Community-eligible users or under paid commercial license + NDA.
+
+handle@proton.me · github.com/handle
