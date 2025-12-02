@@ -6,8 +6,8 @@ C++23 + Rust · Vulkan 1.3 bindless · multithreaded ECS · PBR + glTF 2.0 hot-r
 Developed daily on Arch Linux — linux-zen + Mesa RADV git
 
 ### Current status
-First public demo dropping in the next 48–96 hours  
-Local build already running 144+ FPS (PBR scene + IBL + clustered lighting)
+First public demo dropping in the next 1–2 Years
+Local build already running (PBR scene + IBL + clustered lighting)
 
 ### License (dual model)
 - **Free forever** for individuals, students and indie teams (< 1 M€ revenue AND < 10 employees)  
